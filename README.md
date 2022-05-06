@@ -1,6 +1,8 @@
 # DEA
 Digital Earth Africa 
 
+Source: https://registry.opendata.aws/deafrica-landsat/
+
 “Digital Earth Africa transforms how earth observations can be applied to address some of the current pressing challenges coming in the path of Developing Africa.”
 Africa is a vast continent with a diverse environment, including various types of biodiversity and homes with one of the fastest growing populations in the world.  The population explosion is an additional strain on the natural resources in Africa, is also putting the environment under constant threat from climate change, environment degradation, natural calamities causing severe issues like food security and access to safe water- not only to the humans but also to the flora and fauna.
 As a result, a new technological spirit is taking resolving these issues into hands but is hampered by the lack of actionable data. There are many types of data needed which are almost decision ready, for example rate of desertification, illegal mining activities locations, rate of poaching, total revenue from over agriculture, deforestation hotspots.
